@@ -1,7 +1,6 @@
 src/**
 .gitignore
-.yarnrc
-yarn.lock
+pnpm-lock.yaml
 vsc-extension-quickstart.md
 **/tsconfig.json
 **/.eslintrc.json
@@ -9,4 +8,3 @@ vsc-extension-quickstart.md
 **/*.ts
 save/**
 node_modules
-

@@ -1,17 +1,17 @@
 # Setup
 
-`yarn install`
+`pnpm install`
 
 # Development
 
 ## File watching
 
-`yarn dev`
+`pnpm dev`
 
 ## Build
 
-`yarn build`
+`pnpm build`
 
 ## Build extension
 
-`yarn build:ext`
+`pnpm build:ext`
